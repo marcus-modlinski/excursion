@@ -1,0 +1,43 @@
+html{
+  font-family: Verdana;
+  background-color: black;
+}
+#header {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+}
+.links {
+  color: aquamarine;
+  font-size: 16px;
+}
+.center
+{
+  text-align: center;
+}
+video {
+    display: block;
+    margin: 0 auto;
+}
+#midline {
+  text-align: center;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+#midbyln {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+.imgcnter {
+  display: block;
+  margin: 0 auto;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
